@@ -43,7 +43,7 @@ Com **56+ projetos** desenvolvidos, tenho experiência em diversas áreas da tec
 ## 📫 Entre em Contato
 
 - 💼 **GitHub:** [LEBEATO](https://github.com/LEBEATO)
-- 🌐 **Portfólio:** Em breve!
+- 🌐 **Portfólio:** [Alexandre Beato | Desenvolvedor Front-end](https://portfolionext-knav.vercel.app/)
 
 ---
 
