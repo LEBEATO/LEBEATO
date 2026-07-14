@@ -6,7 +6,8 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Full Stack com experiência em criar soluções inovadoras. Estou sempre em busca de aprender novas tecnologias e compartilhar conhecimento com a comunidade.
+Desenvolvimento de Sistemas • Desenvolvedor Front-end • Desenvolvedor Web • Analista de Sistemas • React • Next.js • JavaScript • TypeScript • HTML5 • CSS3 • Tailwind CSS • SQL • PostgreSQL • Supabase • REST API • Integração de APIs • Git • GitHub • Banco de Dados • Suporte Técnico • Help Desk • Service Desk • Hardware • Software • Windows • Redes • TCP/IP • Segurança da Informação • Atendimento ao Usuário • Testes • Documentação Técnica • Versionamento • Dashboard • Scrum • Metodologias Ágeis
+
 
 ---
 
