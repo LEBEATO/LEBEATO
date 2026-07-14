@@ -1,6 +1,6 @@
 # Olá! Eu sou o Alexandre 👋
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Desenvolvedor Full-Stack focado em criar soluções eficientes, escaláveis e com ótima experiência de uso. Sou apaixonado por tecnologia, educação e por transformar a vida das pessoas através da programação.
 
 ---
 
